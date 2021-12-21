@@ -1,0 +1,15 @@
+/*SCSS puro */
+.nav-item{
+color: white;
+font-family: heebo;
+}
+.navbar-nav d-none d-md-flex custom-menus{
+color: white;
+font-family: heebo;
+}
+.nav-link d-inline-block popover-region-toggle position-relative icon-no-margin{
+color: #eef3ff;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+}
